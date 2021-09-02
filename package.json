@@ -1,0 +1,18 @@
+{
+  "name": "tdd-training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^27.0.1",
+    "jest": "^27.0.6",
+    "prettier": "^2.3.2",
+    "ts-jest": "^27.0.5",
+    "typescript": "^4.3.5"
+  }
+}
